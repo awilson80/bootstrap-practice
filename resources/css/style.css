@@ -1,0 +1,14 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.navbar {
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.container {
+    padding-top: 10em;
+}
