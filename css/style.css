@@ -1,0 +1,30 @@
+#img-container {
+    width: 170px;
+    height: 120px;
+}
+
+#img-container img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.container-fluid img{
+    width: 100px;
+    height: 120px;
+}
+
+.btn-primary1{
+    background-color: blueviolet;
+}
+
+.btn-primary2{
+    background-color: brown;
+}
+
+.btn-primary3{
+    background-color: cornflowerblue;
+}
+
+.btn-primary4{
+    background-color: darkgreen;
+}
